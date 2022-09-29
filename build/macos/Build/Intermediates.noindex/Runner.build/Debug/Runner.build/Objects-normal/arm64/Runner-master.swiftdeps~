@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "3c01366297e02f85f067e98f2620b6a4f83b57b09f61ead54b699ee44eb71c5d"
+build_start_time: [1664347174, 11760950]
+build_end_time: [1664347174, 96786022]
+inputs:
+  "/Users/emrecan/Projects/realtimeweather/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1664347172, 23039102]
+  "/Users/emrecan/Projects/realtimeweather/macos/Runner/AppDelegate.swift": !private [1657708732, 0]
+  "/Users/emrecan/Projects/realtimeweather/macos/Runner/MainFlutterWindow.swift": !private [1657708732, 0]
