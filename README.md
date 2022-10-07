@@ -2,5 +2,4 @@
 
 You can see the weather of the city you want
 
-![](https://github.com/
-realtime-weather-app/assets/github/readme.gif)
+![](https://github.com/Emrecsmsk/realtime-weather-app/blob/main/assets/github/readme.gif?raw=true)
