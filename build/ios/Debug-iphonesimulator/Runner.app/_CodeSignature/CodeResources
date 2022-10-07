@@ -82,7 +82,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		C9/HZpWuz/tJdD6Ho5gw7ElH63c=
+		l3vGc4VGOWu7w3ZjxzJ5B26GIQg=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		acFlHv8mpPh2HrYEmTsHRSFmF+Y=
+		ZMrZvZR374GWqF/c0ptG4B+u1U8=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -118,11 +118,11 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		FQus2kh9VL62J2IwXJQoFMW9bZI=
+		e3Gk+OEl/9UpZozUMMdojkBcaCE=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		mTVCkRRXHWOu4yOHHHvVl/ww74o=
+		sQ+MoqnG0gmEXYfFkRGVI65Ok4c=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -130,11 +130,19 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		TvjnSS8oDrSAxBaexjFQzpzl3nQ=
+		pllPwEbp6AhgoXu2yCPdfOirGuM=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/lottie/changeTheme.json</key>
+		<data>
+		6DaVESk6OR6ot2BZ1ivz5u392g0=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/lottie/darkBackground.json</key>
 		<data>
 		B7DSJkf0PsXgssAJO4T17GOql8E=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/lottie/error.json</key>
+		<data>
+		RQj8BbJoov/5LhOro5ckl5uxmZU=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/lottie/lightBackground.json</key>
 		<data>
@@ -150,11 +158,15 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		d1UiaT5wUbZtFWrTLlXHIqUAxWE=
+		sscUOxfr6Nej/tAVKQkub1+0CTY=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
 		P7bb/oR3EhwqCIH1M6LyTuBIWYU=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/vexana/assets/lottie/lottie_no_network.json</key>
+		<data>
+		Czg9fHhKv9n4eC3WsFFauIY1QP0=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/vm_snapshot_data</key>
 		<data>
@@ -244,9 +256,57 @@
 		<data>
 		5zcJ5BY+w7z+M0to6P+uUWPn04o=
 		</data>
+		<key>Frameworks/Reachability.framework/Info.plist</key>
+		<data>
+		ce/lHwWmaAIUqUeDeDHqGyYC2c4=
+		</data>
+		<key>Frameworks/Reachability.framework/Reachability</key>
+		<data>
+		tElagY+H0jHwH3uVbjEzkx0WkCY=
+		</data>
+		<key>Frameworks/Reachability.framework/_CodeSignature/CodeResources</key>
+		<data>
+		2e785IDYpJIdlnkAlKocSRGtVqI=
+		</data>
+		<key>Frameworks/connectivity_plus.framework/Info.plist</key>
+		<data>
+		oVqRE+Fc8glDKBnBwRJ/ry6V/a8=
+		</data>
+		<key>Frameworks/connectivity_plus.framework/_CodeSignature/CodeResources</key>
+		<data>
+		veYjR1VstETvQmLm6LFKkluJ+Ag=
+		</data>
+		<key>Frameworks/connectivity_plus.framework/connectivity_plus</key>
+		<data>
+		I5m+plL3tTVnHHSybvh5Sczfj4g=
+		</data>
+		<key>Frameworks/path_provider_ios.framework/Info.plist</key>
+		<data>
+		gtJ18ramLaxGvVJLY3/5Hokwr+M=
+		</data>
+		<key>Frameworks/path_provider_ios.framework/_CodeSignature/CodeResources</key>
+		<data>
+		1Qsu1WhDJFkCNzqVJwAXzJM5d2c=
+		</data>
+		<key>Frameworks/path_provider_ios.framework/path_provider_ios</key>
+		<data>
+		7tlh0nsHLMpOPblNDRYvFYY7Xv8=
+		</data>
+		<key>Frameworks/shared_preferences_ios.framework/Info.plist</key>
+		<data>
+		W2VuGTN/7Rn8KgEJJPxDTDoiMxE=
+		</data>
+		<key>Frameworks/shared_preferences_ios.framework/_CodeSignature/CodeResources</key>
+		<data>
+		dbZmSqTZkINEz69+1+bFhOnpiDU=
+		</data>
+		<key>Frameworks/shared_preferences_ios.framework/shared_preferences_ios</key>
+		<data>
+		xa8XzPi4qaPGLfmq03/QPMWLukw=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		RF+i/iUFkGywPJx/ITJYeHBq1PU=
+		R0/xXjtJRpLj5moOykcP6z5DAG8=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -392,7 +452,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			a2e6apaYhVELr5rNs4bMAN7N3YlUnEpm27ZarYCARvQ=
+			6K7mQCrhlvtRYxrSO76gmJIzooC8+ar6vslg2LzHXhE=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -441,7 +501,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			B0wjGadvqzTm7o00O4A1/1J1D6rzSShmtsMzAKMuGW4=
+			JmXSiIDQLEMhUFPZ64qg9abTClo07sL+93UCSbQvvyg=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -455,14 +515,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mlO4FM2Uj36ewddTOi2EnuT0piResabpm8izXdTspOo=
+			aHJWjY0k1CWtpMWIcgaOhJw6Q5QnSAVcM6Wi8Sucvu4=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7Obp9ooqO7u7ldEHQlNJgNXbqV2SaCaDv1zn0ArIVcs=
+			o6RkycIw3bYFGfFfIC2cXYmjREuo/nIAfrQ7UcaXHGE=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -476,7 +536,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			knwg3FKL6GppvaNd05dNWK0HjbjUIY6IGG7gVzqk5gk=
+			o3GxJb+8V2azx7MmC3EE7LBPGZ5n1udPBli0GYsl1ww=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/lottie/changeTheme.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			e3VtlfNm8WyfsTYZzSAkrrznOR3BKhjrqoFiHmI/Krg=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/lottie/darkBackground.json</key>
@@ -484,6 +551,13 @@
 			<key>hash2</key>
 			<data>
 			8LbrSq5M+XV/YieQvaD3sJzBGblrgkP1Shm7PGyPK+E=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/lottie/error.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uUfN4bkRCnanWGMSujZOgiLIhFPcnAF87YQslXaEgqc=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/lottie/lightBackground.json</key>
@@ -511,7 +585,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wfJC4+kCRCBIra3uHGxsct5jvq12nLkXSSOmvGfLinI=
+			4zT/Kxf8/jz6aUwNOTUvPevXN+CmLRn2UJz3N6kpncw=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -519,6 +593,13 @@
 			<key>hash2</key>
 			<data>
 			x6NX+tjyECiQtyzbbjyY8U2zoZ7GDbJtE+T+k/dzgI0=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/vexana/assets/lottie/lottie_no_network.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RM2R5MIbBKIEgd0/gLDGrSs+7un0iIFCBjgK2vqUX90=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/vm_snapshot_data</key>
@@ -673,6 +754,90 @@
 			<key>hash2</key>
 			<data>
 			yNAOslsdK6e70q88cOrqlKovbuH0GiUDe+ICgawnSrQ=
+			</data>
+		</dict>
+		<key>Frameworks/Reachability.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WrvjyJPizJVKF2k40dyBH/RmBOAldvXqY4z2f1yMF0w=
+			</data>
+		</dict>
+		<key>Frameworks/Reachability.framework/Reachability</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2oSFfZ/kgwjGprzMsoA1rRQeV3d107pfVRnDYVMlTCc=
+			</data>
+		</dict>
+		<key>Frameworks/Reachability.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JO+A/BL6zVYUKuAcnHmcvcdp4ZBlJK3r7WKn9TFmq6E=
+			</data>
+		</dict>
+		<key>Frameworks/connectivity_plus.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EMSfd8KA/PsXlDdcSl9oUyxmY9PxzXgRKJQb/OGBUW0=
+			</data>
+		</dict>
+		<key>Frameworks/connectivity_plus.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ikdgodVNZQLXAb5mOrs1VbyQXayIkqEkwRQVHfE67ag=
+			</data>
+		</dict>
+		<key>Frameworks/connectivity_plus.framework/connectivity_plus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IGX3+KupcBWZ5P6NdFuQXDjV0QgN9CV/ByyGj5f7iPQ=
+			</data>
+		</dict>
+		<key>Frameworks/path_provider_ios.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wZpb44dVtkvWHrAhnlCgTpPAxKlaBcl4ZrFMIiyR4ko=
+			</data>
+		</dict>
+		<key>Frameworks/path_provider_ios.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oGgtPU6bSrE6L1uz6spyCDyyzch239vR3Onp683YD+Q=
+			</data>
+		</dict>
+		<key>Frameworks/path_provider_ios.framework/path_provider_ios</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wyjp7TYHOg89zdkIiO4dbyzFuUPAb58VipvV2hK+ZjA=
+			</data>
+		</dict>
+		<key>Frameworks/shared_preferences_ios.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			z3SumKBzZo/ie4o6eSiXX8z/27gB5hyOR32IKUQSn+U=
+			</data>
+		</dict>
+		<key>Frameworks/shared_preferences_ios.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yRfWx+gus6pXxz3Op2FCXN1wQVKS8gvCMKe/dPlQmvc=
+			</data>
+		</dict>
+		<key>Frameworks/shared_preferences_ios.framework/shared_preferences_ios</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UprrG9akkhnMWDcF0VBfJw834u9N3oC83WtxKy+DmvY=
 			</data>
 		</dict>
 	</dict>

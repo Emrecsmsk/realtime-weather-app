@@ -1,9 +1,12 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:get/get.dart';
-import 'package:realtimeweather/languages/languages.dart';
 import 'package:realtimeweather/screens/search_view.dart';
+import 'package:realtimeweather/widgets/weather_view.dart';
 import 'package:realtimeweather/utility/theme/darkTheme.dart';
 import 'package:realtimeweather/utility/theme/lightTheme.dart';
+
+import 'utility/languages/languages.dart';
 
 void main() {
   runApp(const MyApp());
@@ -21,6 +24,6 @@ class MyApp extends StatelessWidget {
         locale:
             Locale('en', 'US'), // translations will be displayed in that locale
         fallbackLocale: Locale('en', 'UK'),
-        home: const SearchView());
+        home: SearchView());
   }
 }

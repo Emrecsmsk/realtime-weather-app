@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:lottie/lottie.dart';
-import 'package:realtimeweather/controller/controller.dart';
+import 'package:realtimeweather/controller/theme_controller.dart';
 import 'package:realtimeweather/mixin/lottie/lottie_mixin.dart';
 import 'package:realtimeweather/utility/theme/darkTheme.dart';
 import 'package:realtimeweather/utility/theme/lightTheme.dart';
@@ -20,21 +20,21 @@ class _ChangeThemeButtonState extends State<ChangeThemeButton>
   @override
   void initState() {
     super.initState();
-    controller = Controller();
+    themeController = ThemeController();
     animationController =
         AnimationController(vsync: this, duration: Duration(seconds: 1));
   }
 
-  late Controller controller;
+  late ThemeController themeController;
   late AnimationController animationController;
   @override
   Widget build(BuildContext context) {
     return InkWell(
         onTap: () {
+          themeController.isDark = !themeController.isDark;
           Get.changeTheme(
-              controller.isDark ? ThemeDark().theme : ThemeLight().theme);
-          controller.isDark = !controller.isDark;
-          animationController.animateTo(controller.isDark ? 1 : 0.5);
+              themeController.isDark ? ThemeDark().theme : ThemeLight().theme);
+          animationController.animateTo(themeController.isDark ? 0.5 : 1);
         },
         child: Lottie.asset(changeTheme, controller: animationController));
   }

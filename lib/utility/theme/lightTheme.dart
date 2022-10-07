@@ -5,9 +5,14 @@ class ThemeLight extends ColorCustom {
   late ThemeData theme;
   ThemeLight() {
     theme = ThemeData(
+        bottomSheetTheme: BottomSheetThemeData(backgroundColor: white),
         textTheme: TextTheme(
             subtitle1: TextStyle(color: white),
-            headline4: TextStyle(color: white)),
+            headline1: TextStyle(color: razzleDazzleRose),
+            headline3: TextStyle(color: Colors.black),
+            headline4: TextStyle(color: white),
+            headline5:
+                TextStyle(color: philippineGray, fontWeight: FontWeight.bold)),
         inputDecorationTheme: InputDecorationTheme(
             floatingLabelStyle: TextStyle(color: white),
             hintStyle: TextStyle(color: white),

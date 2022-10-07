@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:realtimeweather/utility/colors/colors.dart';
 
 class ThemeDark extends ColorCustom {
@@ -6,9 +7,15 @@ class ThemeDark extends ColorCustom {
 
   ThemeDark() {
     theme = ThemeData.dark().copyWith(
+        bottomSheetTheme:
+            BottomSheetThemeData(backgroundColor: yankeesBlue.withOpacity(1)),
         textTheme: TextTheme(
             subtitle1: TextStyle(color: white70),
-            headline4: TextStyle(color: white70)),
+            headline1: TextStyle(color: razzleDazzleRose),
+            headline3: TextStyle(color: white),
+            headline4: TextStyle(color: white70),
+            headline5:
+                TextStyle(color: philippineGray, fontWeight: FontWeight.bold)),
         inputDecorationTheme: InputDecorationTheme(
             floatingLabelStyle: TextStyle(color: white70),
             hintStyle: TextStyle(color: white70),
